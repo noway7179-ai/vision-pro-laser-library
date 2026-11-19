@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="155.000mm" height="327.000mm" viewBox="35.500000 4.500000 155.000000 327.000000">
+    <circle transform="matrix(1,0,0,-1,177,285.25)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="3.1" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,177,285.25)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="13.5" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,177,314.25)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="3.1" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,177,314.25)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="13.5" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,171.5,156)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="3.1" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,171.5,156)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="4.95" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,183.5,156)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="3.1" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,183.5,156)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="4.95" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,171.5,168)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="3.1" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,171.5,168)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="4.95" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,184.5,167)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="3.1" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,184.5,167)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="4.95" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,113,318)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="3.1" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,113,18)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="3.1" cx="0" cy="0"/>
+    <path transform="matrix(1,0,0,-1,99.5,271.726563)" style="stroke:#000000;stroke-width:0.05mm;fill:none" d="M27,-46.273445L27,253.726563C27,261.182404,20.955845,267.226563,13.499999,267.226563C6.044155,267.226563,0,261.182404,-0,253.726563L0,-46.273445C0.000001,-53.729294,6.044158,-59.773445,13.5,-59.773445C20.955849,-59.773445,27.000004,-53.729286,27,-46.273445z"/>
+    <path transform="matrix(1,0,0,-1,99.5,271.726563)" style="stroke:#000000;stroke-width:0.05mm;fill:none" d="M8.5,241.186615L8.499999,-33.733509C11.710437,-32.453423,15.289566,-32.453423,18.5,-33.733509L18.5,241.186615C15.289564,239.90654,11.710437,239.90654,8.5,241.186615z"/>
+    <circle transform="matrix(1,0,0,-1,145,318)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="3.1" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,145,17.999985)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="3.1" cx="0" cy="0"/>
+    <path transform="matrix(1,0,0,-1,131.5,271.726563)" style="stroke:#000000;stroke-width:0.05mm;fill:none" d="M27,-46.273445L27,253.726563C27,261.182404,20.955845,267.226563,13.499999,267.226563C6.044155,267.226563,0,261.182404,-0,253.726563L0,-46.273445C0.000001,-53.729294,6.044158,-59.773445,13.5,-59.773445C20.955849,-59.773445,27.000004,-53.729286,27,-46.273445z"/>
+    <path transform="matrix(1,0,0,-1,131.5,271.726563)" style="stroke:#000000;stroke-width:0.05mm;fill:none" d="M8.5,241.186615L8.499999,-33.733509C11.710437,-32.453423,15.289566,-32.453423,18.5,-33.733509L18.5,241.186615C15.289564,239.90654,11.710437,239.90654,8.5,241.186615z"/>
+    <circle transform="matrix(1,0,0,-1,49,318)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="3.1" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,49,18)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="3.1" cx="0" cy="0"/>
+    <path transform="matrix(1,0,0,-1,35.5,271.726563)" style="stroke:#000000;stroke-width:0.05mm;fill:none" d="M27,-46.273445L27,253.726563C27,261.182404,20.955845,267.226563,13.499999,267.226563C6.044155,267.226563,0,261.182404,-0,253.726563L0,-46.273445C0.000001,-53.729294,6.044158,-59.773445,13.5,-59.773445C20.955849,-59.773445,27.000004,-53.729286,27,-46.273445z"/>
+    <path transform="matrix(1,0,0,-1,35.5,271.726563)" style="stroke:#000000;stroke-width:0.05mm;fill:none" d="M8.5,241.186615L8.499999,-33.733509C11.710437,-32.453423,15.289566,-32.453423,18.5,-33.733509L18.5,241.186615C15.289564,239.90654,11.710437,239.90654,8.5,241.186615z"/>
+    <circle transform="matrix(1,0,0,-1,81,318)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="3.1" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,81,17.999985)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="3.1" cx="0" cy="0"/>
+    <path transform="matrix(1,0,0,-1,67.5,271.726563)" style="stroke:#000000;stroke-width:0.05mm;fill:none" d="M27,-46.273445L27,253.726563C27,261.182404,20.955845,267.226563,13.499999,267.226563C6.044155,267.226563,0,261.182404,-0,253.726563L0,-46.273445C0.000001,-53.729294,6.044158,-59.773445,13.5,-59.773445C20.955849,-59.773445,27.000004,-53.729286,27,-46.273445z"/>
+    <path transform="matrix(1,0,0,-1,67.5,271.726563)" style="stroke:#000000;stroke-width:0.05mm;fill:none" d="M8.5,241.186615L8.499999,-33.733509C11.710437,-32.453423,15.289566,-32.453423,18.5,-33.733509L18.5,241.186615C15.289564,239.90654,11.710437,239.90654,8.5,241.186615z"/>
+    <circle transform="matrix(1,0,0,-1,177,251.25)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="3.1" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,177,251.25)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="13.5" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,177,222.25)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="13.5" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,177,222.25)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="3.1" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,177,189.75)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="13.5" cx="0" cy="0"/>
+    <circle transform="matrix(1,0,0,-1,177,189.75)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="3.1" cx="0" cy="0"/>
+</svg>
